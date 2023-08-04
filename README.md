@@ -3,7 +3,7 @@
 ## Learning Goals
 
 - Create a Many-to-many relationship using an intermediary class.
-- Write aggregate methods.
+- Write aggregate methods .
 
 ***
 
